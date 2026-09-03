@@ -32,11 +32,11 @@
   </a>
   <h3>Testing & QA</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vitest,jest,playwright,postman&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vitest,playwright,postman&theme=light" />
   </a>
   <h3>Herramientas & DevOps</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,jira,linux,windows&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,windows&theme=light" />
   </a>
 </div>
 <br>
